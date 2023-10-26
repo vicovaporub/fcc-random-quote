@@ -1,6 +1,6 @@
 # Random Quotes Machine
 
-## Using React, this project is a Random Quotes Machine required for the [freeCodeCamp](freecodecamp.org)'s Front End Development Libraries certification.
+## Using React, this project is a Random Quotes Machine required for the [freeCodeCamp]([freecodecamp](https://www.freecodecamp.org)'s Front End Development Libraries certification.
 
 ## The project fetches an API which has some quotes stored and randomly displays one of them and the author. There are two buttons, one displays a new quote and the other opens a new tab for retweeting the quote.
 
